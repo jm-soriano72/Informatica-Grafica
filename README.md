@@ -22,4 +22,23 @@ Luz Direccional: Implementada con parámetros de intensidad y dirección
 Luz Focal: Con parámetros de intensidad, dirección, posición y ángulo de apertura
 ### Implementación de niebla
 Se añade niebla que difumina el objeto con el fondo usando una ecuación de niebla. Se definen factores de densidad para niebla de profundidad y altura
+## P3 - OpenGL
+En este proyecto, se implementan la mayor parte de funcionalidades anteriores en el lenguaje de OpenGL, además de alguna adicional
+### Control dinámico de las propiedades de la luz mediante teclado
+### Matriz de proyección
+### Control de la cámara con teclado y ratón
+### Nuevo objeto en la escena
+Se añade un nuevo cubo, con una textura diferente al del primero
+### Implementación de un filtro anisotrópico
+### Iluminación avanzada con distintos tipos de fuentes
+### Efecto de niebla
+## P4 - OpenGL
+En este proyecto se añaden distintos filtros y efectos a una escena
+### Control dinámico del Motion Blur
+Se modifican los parámetros del desenfoque mediante teclado
+### Manejo del Depth of Field
+Se controla el desenfoque de los objetos en función de su distancia a la cámara
+### Buffer de Profundidad
+### Máscaras de convolución
+Se implementa la elección entre diversas opciones mediante teclado
 
