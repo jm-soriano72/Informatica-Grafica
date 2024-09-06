@@ -1,0 +1,7 @@
+﻿cl : línea de comandos  warning D9035: La opción 'Gm' está desusada y se quitará en próximas versiones
+  main.cpp
+E:\Jose\Documentos\Mis archivos\GRADO EN DISEÑO Y DESARROLLO DE VIDEOJUEGOS\SEGUNDO\PRIMER CUATRIMESTRE\ASIGNATURAS\INFORMÁTICA GRÁFICA\PRÁCTICAS\PRÁCTICA 4\P4OGL\scr\main.cpp(76,18): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+E:\Jose\Documentos\Mis archivos\GRADO EN DISEÑO Y DESARROLLO DE VIDEOJUEGOS\SEGUNDO\PRIMER CUATRIMESTRE\ASIGNATURAS\INFORMÁTICA GRÁFICA\PRÁCTICAS\PRÁCTICA 4\P4OGL\scr\main.cpp(81,25): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+E:\Jose\Documentos\Mis archivos\GRADO EN DISEÑO Y DESARROLLO DE VIDEOJUEGOS\SEGUNDO\PRIMER CUATRIMESTRE\ASIGNATURAS\INFORMÁTICA GRÁFICA\PRÁCTICAS\PRÁCTICA 4\P4OGL\scr\main.cpp(615,17): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\Jose\Documentos\Mis archivos\GRADO EN DISEÑO Y DESARROLLO DE VIDEOJUEGOS\SEGUNDO\PRIMER CUATRIMESTRE\ASIGNATURAS\INFORMÁTICA GRÁFICA\PRÁCTICAS\PRÁCTICA 4\P4OGL\scr\main.cpp(619,17): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  P4OGL.vcxproj -> E:\Jose\Documentos\Mis archivos\GRADO EN DISEÑO Y DESARROLLO DE VIDEOJUEGOS\SEGUNDO\PRIMER CUATRIMESTRE\ASIGNATURAS\INFORMÁTICA GRÁFICA\PRÁCTICAS\PRÁCTICA 4\P4OGL\Debug\P4OGL.exe

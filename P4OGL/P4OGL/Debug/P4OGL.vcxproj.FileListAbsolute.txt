@@ -1,0 +1,3 @@
+R:\Documents\Informática Gráfica\P4OGL\P4OGL\Debug\P4OGL.exe
+\\myappsdrive.alumnos.urjc.es\Home_VDI$\jm.soriano.2021\Documents\Informática Gráfica\P4OGL\P4OGL\Debug\P4OGL.exe
+E:\Jose\Documentos\Mis archivos\GRADO EN DISEÑO Y DESARROLLO DE VIDEOJUEGOS\SEGUNDO\PRIMER CUATRIMESTRE\ASIGNATURAS\INFORMÁTICA GRÁFICA\PRÁCTICAS\PRÁCTICA 4\P4OGL\Debug\P4OGL.exe
