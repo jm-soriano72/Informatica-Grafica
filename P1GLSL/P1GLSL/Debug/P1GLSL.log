@@ -1,0 +1,15 @@
+﻿cl : línea de comandos  warning D9035: La opción 'Gm' está desusada y se quitará en próximas versiones
+  main.cpp
+E:\Jose\Documentos\Mis archivos\GRADO EN DISEÑO Y DESARROLLO DE VIDEOJUEGOS\SEGUNDO\PRIMER CUATRIMESTRE\ASIGNATURAS\INFORMÁTICA GRÁFICA\PRÁCTICAS\PRÁCTICA 1\P1GLSL\P1GLSL\scr\main.cpp(56,10): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+E:\Jose\Documentos\Mis archivos\GRADO EN DISEÑO Y DESARROLLO DE VIDEOJUEGOS\SEGUNDO\PRIMER CUATRIMESTRE\ASIGNATURAS\INFORMÁTICA GRÁFICA\PRÁCTICAS\PRÁCTICA 1\P1GLSL\P1GLSL\scr\main.cpp(58,18): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+E:\Jose\Documentos\Mis archivos\GRADO EN DISEÑO Y DESARROLLO DE VIDEOJUEGOS\SEGUNDO\PRIMER CUATRIMESTRE\ASIGNATURAS\INFORMÁTICA GRÁFICA\PRÁCTICAS\PRÁCTICA 1\P1GLSL\P1GLSL\scr\main.cpp(100,18): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+E:\Jose\Documentos\Mis archivos\GRADO EN DISEÑO Y DESARROLLO DE VIDEOJUEGOS\SEGUNDO\PRIMER CUATRIMESTRE\ASIGNATURAS\INFORMÁTICA GRÁFICA\PRÁCTICAS\PRÁCTICA 1\P1GLSL\P1GLSL\scr\main.cpp(101,18): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+  P1GLSL.vcxproj -> E:\Jose\Documentos\Mis archivos\GRADO EN DISEÑO Y DESARROLLO DE VIDEOJUEGOS\SEGUNDO\PRIMER CUATRIMESTRE\ASIGNATURAS\INFORMÁTICA GRÁFICA\PRÁCTICAS\PRÁCTICA 1\P1GLSL\P1GLSL\Debug\P1GLSL.exe
