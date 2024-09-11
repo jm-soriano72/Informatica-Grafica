@@ -1,5 +1,10 @@
 # Informatica-Grafica
 En este repositorio se encuentran diversos proyectos en C++, que utilizan GLSL y OpenGL e implementan distintas técnicas de iluminación, texturizado...
+
+![Imagen de ejemplo](https://github.com/jm-soriano72/Informatica-Grafica/blob/main/Im%C3%A1genes/1.PNG)
+![Imagen de ejemplo 2](https://github.com/jm-soriano72/Informatica-Grafica/blob/main/Im%C3%A1genes/2.PNG)
+![Imagen de ejemplo 3](https://github.com/jm-soriano72/Informatica-Grafica/blob/main/Im%C3%A1genes/3.PNG)
+
 ## P1 - GLSL
 En este proyecto se realiza una escena sencilla, con el movimiento de cuerpos geométricos simples. Las funcionalidades que implementa son las siguientes:
 ### Matriz de proyección con Aspect Ratio
